@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+testing-by-grider/users/node_modules
+testing-by-grider/splain/node_modules
+# dependencies
+testing-by-grider/users/node_modules
+testing-by-grider/users/.pnp
+testing-by-grider/users/.pnp.js
+
+# testing
+testing-by-grider/users/coverage
+
+# production
+testing-by-grider/users/build
+
+# misc
+testing-by-grider/users/.DS_Store
+testing-by-grider/users/.env.local
+testing-by-grider/users/.env.development.local
+testing-by-grider/users/.env.test.local
+testing-by-grider/users/.env.production.local
+
+testing-by-grider/users/npm-debug.log*
+testing-by-grider/users/yarn-debug.log*
+testing-by-grider/users/yarn-error.log*
