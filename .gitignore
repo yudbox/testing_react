@@ -2,16 +2,20 @@
 
 testing-by-grider/users/node_modules
 testing-by-grider/splain/node_modules
+testing2/jest-testing/node_modules
 # dependencies
 testing-by-grider/users/node_modules
 testing-by-grider/users/.pnp
 testing-by-grider/users/.pnp.js
+testing2/jest-testing/.pnp.js
 
 # testing
 testing-by-grider/users/coverage
+testing2/jest-testing/coverage
 
 # production
 testing-by-grider/users/build
+testing2/jest-testing/build
 
 # misc
 testing-by-grider/users/.DS_Store
